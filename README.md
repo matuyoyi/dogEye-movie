@@ -1,2 +1,5 @@
-#Vuejs--dogEyeMovie
-# dogEye-movie
+#<h1>项目介绍</h1>
+<p>一个基于vue全家桶制作的在线电影影讯网站，利用豆瓣api的接口获取数据，模仿猫眼电影制作的webapp，实现了当前热映电影，即将上映电影，电影详细信息，短评和长评论信息，影星个人信息，以及电影查询的功能</p>
+#demo
+<a href="http://www.cloun.cn">dogEye-movie</a>
+
