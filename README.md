@@ -3,6 +3,7 @@
 <h1>demo</h1>
 <a href="http://45.77.16.159"> 狗眼电影 </a>
 <h1>运行项目</h1>
+
 	# 克隆整个项目到本地
 
 	  git clone https://github.com/matuyoyi/dogEye-movie.git
